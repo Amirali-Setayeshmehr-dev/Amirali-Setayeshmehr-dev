@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amirali-Setayeshmehr-dev](https://github.com/Amirali-Setayeshmehr-dev)
 
-- 💬 Ask me about **Html,Css,**
+- 💬 Ask me about ** Html , Css , Git ,**
 
 - 📫 How to reach me **Setayeshmehr.dev@gmail.com**
 
