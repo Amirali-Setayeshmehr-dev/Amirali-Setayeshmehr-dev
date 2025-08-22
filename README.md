@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Setayeshmehr.dev@gmail.com**
 
-- ⚡ fact **The frontend is not just what users see _ its how they feel when they see it**
+- ⚡ fact **The frontend is not just what users see , its how they feel when they see it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
