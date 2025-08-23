@@ -7,7 +7,7 @@
 
 - 👨🏻‍🎓 I’m currently studying at **Parnian Institute**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amirali-Setayeshmehr-dev](https://github.com/Amirali-Setayeshmehr-dev)
+- 💻 All of my projects are available at [https://github.com/Amirali-Setayeshmehr-dev](https://github.com/Amirali-Setayeshmehr-dev)
 
 - 💬 Ask me about ** Html , Css , Git ,**
 
