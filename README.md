@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirali Setayeshmehr</h1>
 <h3 align="center">a passionate frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-setayeshmehr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amirali-setayeshmehr-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amirali-Setayeshmehr-dev" alt="Amirali-Setayeshmehr-dev" /></a> </p>
-
 - 👨🏻‍🎓 I’m currently studying at **Parnian Institute**
 
 - 💻 All of my projects are available at [https://github.com/Amirali-Setayeshmehr-dev](https://github.com/Amirali-Setayeshmehr-dev)
