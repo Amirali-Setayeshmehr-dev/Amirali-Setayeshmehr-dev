@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-setayeshmehr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amirali-setayeshmehr-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirali-setayeshmehr-dev" alt="amirali-setayeshmehr-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amirali-Setayeshmehr-dev" alt="Amirali-Setayeshmehr-dev" /></a> </p>
 
 - 👨🏻‍🎓 I’m currently studying at **Parnian Institute**
 
