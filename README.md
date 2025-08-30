@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amirali Setayeshmehr</h1>
-<h3 align="center">a passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer from IRAN</h3>
 
-- 👨🏻‍🎓 I’m currently studying at **Parnian Institute**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-setayeshmehr-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amirali-setayeshmehr-dev" /> </p>
 
-- 💻 All of my projects are available at [https://github.com/Amirali-Setayeshmehr-dev](https://github.com/Amirali-Setayeshmehr-dev)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirali-setayeshmehr-dev" alt="amirali-setayeshmehr-dev" /></a> </p>
 
-- 💬 Ask me about ** Html , Css , Git ,**
+- I’m currently studying at **PARNIAN Institute**
 
-- 📫 How to reach me **Setayeshmehr.dev@gmail.com**
+- 💬 Ask me about **HTML , CSS**
 
-- ⚡ fact **The frontend is not just what users see , its how they feel when they see it**
+- 📫 How to reach me **setayeshmehr.dev@gmail.com**
+
+- ⚡ Fact **The frontend is not just what users see , its how they feel when they see it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amirali-setayeshmehr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirali-setayeshmehr" height="30" width="40" /></a>
-<a href="https://instagram.com/setayeshmehr.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="setayeshmehr.dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amirali-setayeshmehr-8a126b37b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirali-setayeshmehr-8a126b37b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/setayeshmehr.dev?igsh=mxm2anu3d2l3mdrqyg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/setayeshmehr.dev?igsh=mxm2anu3d2l3mdrqyg%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
